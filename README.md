@@ -1,7 +1,7 @@
-CID_399_Athena_Commando_F_AshtonBoardwalk, 1500
-Pickaxe_ID_202_AshtonBoardwalk, 1000
-CID_400_Athena_Commando_M_AshtonSaltLake, 1200
-Glider_ID_142_AshtonSaltLake, 800
+Pickaxe_ID_015_HolidayCandyCane, 500
+Pickaxe_ID_179_StarWand, 100
+CID_703_Athena_Commando_M_Cyclone, 200
+na
 na
 na
 Pickaxe_ID_134_Snowman, 500
